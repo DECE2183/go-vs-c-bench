@@ -4,6 +4,8 @@ For benchmark was used [Rastrigin function](https://en.wikipedia.org/wiki/Rastri
 
 ### Results
 
+Tested on Intel Core i5-6600K CPU.
+
 | Language | Result                  | Time        |
 |----------|-------------------------|-------------|
 | Go       | `3.108036677204659e+08` | `221.681ms` |
